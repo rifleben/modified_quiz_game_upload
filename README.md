@@ -4,7 +4,7 @@ Simple upload of a quiz game practicing class creation as well as using private 
 Simple True/False game while keeping score.
 Multiple file creation for use.
 
-Play the game using main.py
-Game Logic in quiz_brain.py
-Question Dictionary List in data.py
-Question Class Creation in question_model.py
+* Play the game using main.py
+* Game Logic in quiz_brain.py
+* Question Dictionary List in data.py
+* Question Class Creation in question_model.py
